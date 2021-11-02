@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=lhbyllcl2&show_icons=true&theme=radical)
+![](https://img.shields.io/badge/python-3.6-orange)
