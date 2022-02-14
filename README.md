@@ -6,10 +6,9 @@
 <h3 font-size="20" align="center">A passionate backend developer from china.</h3>
 
 
-- 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
-
-
-- 👨‍💻 All of my projects are available [@lhbyllcl2](github.com/lhbyllcl2)
+- 🌱 I’m currently learning Go & Python & React<img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+- 🔭 I’m currently working on Chengdu, China
+- 👨‍💻 How to reach me: lhbyllcl2@126.com
 
 - ⚡ Fun fact **Coding is a passion and not profession.**
 
