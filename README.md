@@ -9,9 +9,6 @@
 - 🌱 I’m currently learning Go & Python & React<img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
 - 🔭 I’m currently working on Chengdu, China
 - 👨‍💻 How to reach me: lhbyllcl2@126.com
-
-- ⚡ Fun fact **Coding is a passion and not profession.**
-
 ---
 
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
