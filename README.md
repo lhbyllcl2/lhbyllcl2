@@ -17,14 +17,6 @@
 [![](https://github-readme-stats.vercel.app/api?username=lhbyllcl2&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/lhbyllcl2)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=lhbyllcl2&theme=material-palenight)](https://github.com/lhbyllcl2)
 </div>
-
-----
-
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
-
 ------
 Credit: [lhbyllcl2](https://github.com/lhbyllcl2)
 
