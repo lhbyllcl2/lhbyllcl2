@@ -15,9 +15,11 @@
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=lhbyllcl2&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/lhbyllcl2)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=lhbyllcl2&theme=material-palenight)](https://github.com/lhbyllcl2)
+  
 </div>
+
 ------
+
 Credit: [lhbyllcl2](https://github.com/lhbyllcl2)
 
 Last Edited on: 02/11/2021
